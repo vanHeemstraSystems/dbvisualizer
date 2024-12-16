@@ -1,6 +1,6 @@
-Repository-Name
+dbvisualizer
 
-# Repository-Name
+# DbVisualizer
 
 > Slugline
 
@@ -10,7 +10,7 @@ Repository-Name
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
