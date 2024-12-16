@@ -1,6 +1,6 @@
-repository-name
+com.dbvisualizer
 
-# اسم المستودع
+# DbVisualizer
 
 > سلوجلاين
 
@@ -12,7 +12,7 @@ repository-name
 
 **ملخص تنفيذي**
 
-Text
+نص
 
 ## 100- مقدمة
 
