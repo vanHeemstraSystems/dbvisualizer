@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [DbVisualizer Tutorial: How to Get Started](https://www.youtube.com/watch?v=GMBLiNjljEM)
