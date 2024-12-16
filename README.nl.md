@@ -1,6 +1,6 @@
-repositorynaam
+dbvisualizer
 
-# Naam van opslagplaats
+# DbVisualizer
 
 > Slaklijn
 
