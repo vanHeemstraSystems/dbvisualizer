@@ -1,6 +1,6 @@
-nom du référentiel
+dbvisualiseur
 
-# Nom du référentiel
+# DbVisualizer
 
 > Slugline
 
